@@ -1,0 +1,104 @@
+------------------------------------------------------------------------
+IBM Corporation : ID Workbench Search / Replace Log V1.0.0
+------------------------------------------------------------------------
+ Log Start Time :      Tue Mar 27 13:59:57 2018
+ Main Map :            C:\Users\IBM_ADMIN\Documents\GitHub\Giza-docs\Giza PDF.ditamap
+    Last Modification: Tue Mar 27 13:59:11 2018
+    Size:              8878
+    File_System:       NTFS
+  Backup Path:         C:\TEMP\IDWB\MODTEXT_Mar-27-2018-13-59-57
+: Change Skipped. Project Giza Closed Beta
+: Change Skipped. Project Giza
+ End Type: *END*
+ Log End Time: Tue Mar 27 14:00:05 2018
+ <*>--------------------------------------------
+ Number of Files Processed: 62
+ Number of DITA Files Processed: 0
+ Number of DITAMAP Files Processed: 1
+ Number of DITA/DITAMAP Files Not Found: 0
+ Number of DITA/DITAMAP Duplicate Files: 1
+ Number of DITA/DITAMAP Read-Only Files: 0
+
+ Number of Files Not Processed: 61
+ Number of Other Files Processed: 61
+
+ Number of Finds    : 2
+ Number of Replaces : 0
+ <*>--------------------------------------------
+ Files Processed:
+ [INDEX] [ITEM TYPE] [NAME] [FULL PATH] [MAP LOCATION]
+ [1] [DITAMAP] [Giza PDF.ditamap] [C:\Users\IBM_ADMIN\Documents\GitHub\Giza-docs\Giza PDF.ditamap] []
+ <*>--------------------------------------------
+ Files Not Found:
+ <*>--------------------------------------------
+ Read-Only Files:
+ <*>--------------------------------------------
+ Duplicate Files:
+ [INDEX] [ITEM TYPE] [NAME] [FULL PATH] [MAP LOCATION]
+ [1] [OTHER] [topics/atlas-postrequestinjavascript.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/atlas-postrequestinjavascript.md] [Giza PDF.ditamap]
+ <*>--------------------------------------------
+ References Not Processed:
+ [INDEX] [ITEM TYPE] [TYPE INFO] [NAME] [FULL PATH] [MAP LOCATION]
+ [INDEX] [ITEM TYPE] [TYPE INFO] [REFERENCE] [MAP LOCATION]
+ [1] [OTHER] [] [topics/editionnotice.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/editionnotice.md] [Giza PDF.ditamap]
+ [2] [OTHER] [] [topics/aboutthisbook.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/aboutthisbook.md] [Giza PDF.ditamap]
+ [3] [OTHER] [] [topics/introduction.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/introduction.md] [Giza PDF.ditamap]
+ [4] [OTHER] [] [topics/whatis.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/whatis.md] [Giza PDF.ditamap]
+ [5] [OTHER] [] [topics/componentoverview.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/componentoverview.md] [Giza PDF.ditamap]
+ [6] [OTHER] [] [topics/mvd-overview.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/mvd-overview.md] [Giza PDF.ditamap]
+ [7] [OTHER] [] [topics/atlas-overview.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/atlas-overview.md] [Giza PDF.ditamap]
+ [8] [OTHER] [] [topics/cli-releasenotes.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/cli-releasenotes.md] [Giza PDF.ditamap]
+ [9] [OTHER] [] [topics/installandconfig.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/installandconfig.md] [Giza PDF.ditamap]
+ [10] [OTHER] [] [topics/planinstall.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/planinstall.md] [Giza PDF.ditamap]
+ [11] [OTHER] [] [topics/prezosmf.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/prezosmf.md] [Giza PDF.ditamap]
+ [12] [OTHER] [] [topics/premvd.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/premvd.md] [Giza PDF.ditamap]
+ [13] [OTHER] [] [topics/mvd-verifysystemswreqs.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/mvd-verifysystemswreqs.md] [Giza PDF.ditamap]
+ [14] [OTHER] [] [topics/mvd-instconfirmnodejsinstalled.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/mvd-instconfirmnodejsinstalled.md] [Giza PDF.ditamap]
+ [15] [OTHER] [] [topics/mvd-instverifyportnumavailable.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/mvd-instverifyportnumavailable.md] [Giza PDF.ditamap]
+ [16] [OTHER] [] [topics/atlas-prereqs.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/atlas-prereqs.md] [Giza PDF.ditamap]
+ [17] [OTHER] [] [topics/precli.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/precli.md] [Giza PDF.ditamap]
+ [18] [OTHER] [] [topics/installing.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/installing.md] [Giza PDF.ditamap]
+ [19] [OTHER] [] [topics/installvirtualdesktop.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/installvirtualdesktop.md] [Giza PDF.ditamap]
+ [20] [OTHER] [] [topics/mvd-instsetupeverythingonzos.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/mvd-instsetupeverythingonzos.md] [Giza PDF.ditamap]
+ [21] [OTHER] [] [topics/mvd-instopendesktopbrowser.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/mvd-instopendesktopbrowser.md] [Giza PDF.ditamap]
+ [22] [OTHER] [] [topics/atlas-install.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/atlas-install.md] [Giza PDF.ditamap]
+ [23] [OTHER] [] [topics/cli-installcli.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/cli-installcli.md] [Giza PDF.ditamap]
+ [24] [OTHER] [] [topics/verify.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/verify.md] [Giza PDF.ditamap]
+ [25] [OTHER] [] [topics/atlas-verifyinstall.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/atlas-verifyinstall.md] [Giza PDF.ditamap]
+ [26] [OTHER] [] [topics/cli-validateInstallation.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/cli-validateInstallation.md] [Giza PDF.ditamap]
+ [27] [OTHER] [] [topics/cli-validateInstallationcorrectproblems.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/cli-validateInstallationcorrectproblems.md] [Giza PDF.ditamap]
+ [28] [OTHER] [] [topics/uninstall.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/uninstall.md] [Giza PDF.ditamap]
+ [29] [OTHER] [] [topics/mvd-uninstallingzlux.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/mvd-uninstallingzlux.md] [Giza PDF.ditamap]
+ [30] [OTHER] [] [topics/atlas-uninstall.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/atlas-uninstall.md] [Giza PDF.ditamap]
+ [31] [OTHER] [] [topics/cli-uninstallcli.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/cli-uninstallcli.md] [Giza PDF.ditamap]
+ [32] [OTHER] [] [topics/troubleshoot.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/troubleshoot.md] [Giza PDF.ditamap]
+ [33] [OTHER] [] [topics/mvd-troubleshoot.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/mvd-troubleshoot.md] [Giza PDF.ditamap]
+ [34] [OTHER] [] [topics/atlas-troubleshoot.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/atlas-troubleshoot.md] [Giza PDF.ditamap]
+ [35] [OTHER] [] [topics/cli-troubleshootinginstallingcli.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/cli-troubleshootinginstallingcli.md] [Giza PDF.ditamap]
+ [36] [OTHER] [] [topics/using.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/using.md] [Giza PDF.ditamap]
+ [37] [OTHER] [] [topics/usingmvd.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/usingmvd.md] [Giza PDF.ditamap]
+ [38] [OTHER] [] [topics/navigatingmvd.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/navigatingmvd.md] [Giza PDF.ditamap]
+ [39] [OTHER] [] [topics/atlas-usingwebuiwithinmvd.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/atlas-usingwebuiwithinmvd.md] [Giza PDF.ditamap]
+ [40] [OTHER] [] [topics/mvd-plugincreateappplugin.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/mvd-plugincreateappplugin.md] [Giza PDF.ditamap]
+ [41] [OTHER] [] [topics/mvd-pluginsetenvvars.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/mvd-pluginsetenvvars.md] [Giza PDF.ditamap]
+ [42] [OTHER] [] [topics/mvd-pluginexpsampapp.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/mvd-pluginexpsampapp.md] [Giza PDF.ditamap]
+ [43] [OTHER] [] [topics/usingapis.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/usingapis.md] [Giza PDF.ditamap]
+ [44] [OTHER] [] [topics/atlas-usingatlasrestapis.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/atlas-usingatlasrestapis.md] [Giza PDF.ditamap]
+ [45] [OTHER] [] [topics/atlas-datasetapis.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/atlas-datasetapis.md] [Giza PDF.ditamap]
+ [46] [OTHER] [] [topics/atlas-jobapis.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/atlas-jobapis.md] [Giza PDF.ditamap]
+ [47] [OTHER] [] [topics/atlas-persistentdataapis.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/atlas-persistentdataapis.md] [Giza PDF.ditamap]
+ [48] [OTHER] [] [topics/atlas-systemapi.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/atlas-systemapi.md] [Giza PDF.ditamap]
+ [49] [OTHER] [] [topics/atlas-ussfileapis.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/atlas-ussfileapis.md] [Giza PDF.ditamap]
+ [50] [OTHER] [] [topics/atlas-systemapis.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/atlas-systemapis.md] [Giza PDF.ditamap]
+ [51] [OTHER] [] [topics/atlas-programrestapi.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/atlas-programrestapi.md] [Giza PDF.ditamap]
+ [52] [OTHER] [] [topics/atlas-getrequestinjava.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/atlas-getrequestinjava.md] [Giza PDF.ditamap]
+ [53] [OTHER] [] [topics/atlas-postrequestinjavascript.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/atlas-postrequestinjavascript.md] [Giza PDF.ditamap]
+ [54] [OTHER] [] [topics/atlas-extendedapisample.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/atlas-extendedapisample.md] [Giza PDF.ditamap]
+ [55] [OTHER] [] [topics/atlas-websocket.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/atlas-websocket.md] [Giza PDF.ditamap]
+ [56] [OTHER] [] [topics/atlas-programwebsocket.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/atlas-programwebsocket.md] [Giza PDF.ditamap]
+ [57] [OTHER] [] [topics/cli-usingcli.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/cli-usingcli.md] [Giza PDF.ditamap]
+ [58] [OTHER] [] [topics/cli-howtodisplaybrightsidehelp.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/cli-howtodisplaybrightsidehelp.md] [Giza PDF.ditamap]
+ [59] [OTHER] [] [topics/cli-commandgroups.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/cli-commandgroups.md] [Giza PDF.ditamap]
+ [60] [OTHER] [] [topics/cli-enabledisablexperimentalcommands.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/cli-enabledisablexperimentalcommands.md] [Giza PDF.ditamap]
+ [61] [OTHER] [] [topics/cli-scenarios.md] [C:/Users/IBM_ADMIN/Documents/GitHub/Giza-docs/topics/cli-scenarios.md] [Giza PDF.ditamap]
+ <*>--------------------------------------------
