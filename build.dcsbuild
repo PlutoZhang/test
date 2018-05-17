@@ -1,0 +1,9 @@
+#!/bin/bash
+cat <<EOF > ./build.dcsbuid
+common.operation=transform
+common.input.type=git
+common.input.file=github.ibm.com:chentingcathy/test.git
+common.output.type=box
+common.output.path=/output
+transform.output.type=mdpdf
+EOF
