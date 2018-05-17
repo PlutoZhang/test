@@ -2,8 +2,11 @@
 cat <<EOF > ./build.dcsbuid
 common.operation=transform
 common.input.type=git
-common.input.file=github.ibm.com:chentingcathy/test.git
+common.input.path=github.com:chentingcathy/test.git
+common.input.file=Giza PDF.ditamap
 common.output.type=box
 common.output.path=/output
-transform.output.type=mdpdf
+transform.output.type=ibmpdf
+ditaot.args.gen.task.lbl=YES
+transform.draft.show=false
 EOF
