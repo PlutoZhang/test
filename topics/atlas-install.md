@@ -1,4 +1,4 @@
-# Installing Atlas
+# Installing Atlass
 
 Installing Atlas involves obtaining the Atlas Archive, running the install script, and configuring files.
 
