@@ -5,8 +5,8 @@ common.input.type=git
 common.input.path=github.com:chentingcathy/test.git
 common.input.file=Giza PDF.ditamap
 common.output.type=box
-common.output.path=/output
-transform.output.type=ibmpdf
+common.output.path=/test
+transform.output.type=mdpdf
 ditaot.args.gen.task.lbl=YES
 transform.draft.show=false
 EOF
