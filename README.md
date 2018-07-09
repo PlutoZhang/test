@@ -1,6 +1,6 @@
 # Introduction
 
-* [Edition notice](https://github.com/PlutoZhang/test/blob/master/topics/editionnotice.md)
+* [Edition notice](https://github.com/PlutoZhang/test/blob/master/edition-notice.md)
 * [About this book]()
 * [Project Giza overview]()
   * [What is Project Giza](https://github.com/PlutoZhang/test/tree/9546d8439c946cd66a562599842dc7ae08ccc070/topics/whatis.md)
