@@ -10,7 +10,7 @@
     * [Brightside CLI Overview]()
 * [Installing Project Giza]()
   * [Prerequisites]()
-    * [Prerequisites for z/OSMF configuration]()
+    * [Prerequisites for z/OSMF configuration](https://github.com/PlutoZhang/test/blob/master/installing-project-giza/prerequisites/prerequisites-for-z-osmf-configuration.md)
     * [Prerequisites for zLUX]()
       * [Verifying that your system meets the software requirements]()
       * [Confirming that Node.js is installed on the z/OS host]()
